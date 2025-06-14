@@ -5,9 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-# Just Another Simulation
+# Our Mission
 
-![Placeholder](assets/images/placeholder.png)
+![RoseBei Sauce](assets/images/RoseBei-Sauce-Bottles.png)
 
 We are a small local business, that wanted to make a healthier teriyaki sauce, that tastes great. Our product doesn't have all the filler of most brands. No high fructose corn syrup, no xanthan gum, no starch added, and no thickeners. 
 

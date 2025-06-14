@@ -1,13 +1,10 @@
 ---
 title: Background
 layout: page
-nav_order: 2
+nav_order: 3
+permalink: /background
 ---
 
-# Background
+# Our Story
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5BZEKRl1skU?si=E29xiI8bA3lQwR-2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vulputate tempus lectus, et congue enim rutrum vestibulum. Nullam elementum ligula pretium rutrum facilisis. Donec tempor tincidunt ante, id ultrices dolor gravida placerat. Donec vitae velit a elit ornare dignissim in ut ex. Integer vehicula, arcu non pulvinar facilisis, quam mi faucibus nibh, id varius magna purus congue nunc. Phasellus ac lobortis mauris. Nam facilisis lorem id sapien imperdiet, sed molestie leo vulputate. Ut et enim id lectus accumsan convallis sit amet ut neque. Curabitur et magna libero.
-
-Donec purus augue, vulputate vel leo id, posuere tincidunt enim. Pellentesque pellentesque mi eros, et tempus leo vulputate vitae. In placerat turpis ac ante porttitor varius. Phasellus interdum erat ut ullamcorper condimentum. Nullam facilisis sit amet risus eget porttitor. Fusce rutrum mauris et ex eleifend egestas. In suscipit dapibus gravida. Donec lobortis augue eget libero blandit vulputate. Aenean tincidunt, lectus eget tempus porttitor, tellus nisi viverra purus, sit amet laoreet dolor neque sed nibh. Integer pretium est eget sapien ornare, id semper velit gravida. Donec mi nulla, semper vitae velit et, auctor dapibus ipsum. Nullam ipsum sem, tincidunt quis nisi ultrices, feugiat fermentum erat. Proin lobortis maximus dolor ut porta. Nunc ac metus lorem. Morbi bibendum ut diam quis mattis.
+Founded in the heart of Mt. Vernon, Rose~Bei Sauce Company began as a labor of love in the kitchen of our founder, Paul Troupe. With a passion for exquisite flavors and a commitment to using only the finest local ingredients, Rose~Bei set out to create a line of sauces that would tantalize taste buds and bring joy to every meal. What sets us apart is our unwavering dedication to quality. We work closely with local artisans, carefully selecting the freshest produce and spices, ensuring that each batch of our sauces bursts with vibrant flavors. We believe that great food starts with great ingredients, and we're proud to support the local community while delivering exceptional taste to our customers.
